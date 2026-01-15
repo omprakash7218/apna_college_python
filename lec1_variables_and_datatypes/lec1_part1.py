@@ -35,3 +35,9 @@ print(a + b)
 print ( a-b)
 
 #comments is something that you use to explain yourself in future what exactly you were doing or you can comment for different person to understand
+
+# let's us make a flag of stars
+i = 3
+while i>=1:
+    print("***")
+    i -=1
