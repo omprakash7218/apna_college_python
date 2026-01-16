@@ -41,3 +41,9 @@ i = 3
 while i>=1:
     print("***")
     i -=1
+# fundamentals > google colab se different libraries se familiarize hona hai>
+# asabeneh 30 days of python git repository >coddy.tech>real world project
+# > practial tutorials / project based training git hub repository >
+# start to build something > build your own x git repo > intermediate level ==> AI library use ai as a partner and a product >
+# git hub copilot > machine learning > deep learning > continuous mastery
+# goal is not to get in shape but to stay in shape or not to marry but stay married . Journal your python progress
